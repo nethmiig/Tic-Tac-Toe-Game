@@ -1,9 +1,29 @@
-.box{
-    background-color: azure;
+.box {
+    background-color: lightgray;
     border: none;
     border-radius: 10%;
-    box-shadow: 0px 0px 8px antiquewhite;
-    width:  5rem;
+    box-shadow: 0px 0px 8px #888888;
+    width: 5rem;
     height: 5rem;
     text-align: center;
-}
+    font-size: 3em;
+    font-family: "Roboto Slab", serif;
+    font-weight: bolder;
+    line-height: 3rem;
+    margin:0.7rem;
+    
+  }
+
+  .box:hover{
+    box-shadow: 5px 5px 15px #888888;
+  
+  }
+
+  .x {
+    color: rgb(168, 17, 83)
+  }
+  .o {
+    color: rgb(46, 104, 163)
+  }
+  
+ 

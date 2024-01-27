@@ -1,0 +1,15 @@
+.reset-button{
+    border: none;
+    cursor: pointer;
+    background-color:azure;
+    color: rgb(0, 0, 0);
+    font-size: 1.5rem;
+    font-family: "Roboto Slab", serif;
+    padding: 0.5rem 1rem;
+    margin: 2rem auto;
+    display:block;
+    box-shadow: 0px 0px 8px #888888;
+    border-radius: 10%;
+    font-weight: bolder;
+
+}
